@@ -2,7 +2,7 @@
 
 ## Preface
 
-This document is a work in progress, hence the `0` major version number. It is based on the old UAG Manifesto, which was originally written in 2016 and updated until the 21st of December 2022. The Manifesto was a good start, but it was not comprehensive enough to serve as a constitution. This document is intended to serve as a more comprehensive guide to the organization and its operations.
+This is a draft document, marked as version 0, which builds upon the UAG Manifesto created in 2016 and last updated on December 21, 2022. The Manifesto was a good beginning, but not enough to function as a constitution. This document aims to provide a more detailed guide for the organization's functions and operations.
 
 ## Introduction
 
