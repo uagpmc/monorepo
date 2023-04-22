@@ -2,11 +2,13 @@
 
 ## Preface
 
-This is a draft document, marked as version 0, which builds upon the UAG Manifesto created in 2016 and last updated on December 21, 2022. The Manifesto was a good beginning, but not enough to function as a constitution. This document aims to provide a more detailed guide for the organization's functions and operations.
+This document is intended to serve as a guide for the operation of our organization. It outlines the core values and principles that guide our operations, as well as the rules and guidelines that all members are expected to follow. It is our hope that by following these guidelines, we can create a positive and enjoyable experience for all members of the unit.
+
+As the organization grows and evolves, this document may be updated to reflect any changes to our policies and procedures. We will make every effort to keep our members informed of any changes to our policies and procedures, and we encourage all members to review this document regularly.
 
 ## Introduction
 
-Unnamed Arma Group is a community of individuals dedicated to military simulation through the game Arma. We prioritize a drama-free and respectful environment, and do not seek to impose any particular ideology or pretend to be experts. We are simply a group of friends united by our shared interest in the game.
+Unnamed Arma Group is a gaming community developed around playing Arma 3 and other military simulation games. Our focus is on small-team tactics, exciting gameplay, and a positive and respectful community. We aim to provide all members a voice in the organization and a platform to share their ideas and opinions to help shape the future of the group.
 
 ## Core Values
 
@@ -20,19 +22,21 @@ Our organization is guided by a set of core values that inform all aspects of ou
 - Be content, but not oblivious.
 - Be innovative, but not reckless.
 
-The importance of our core values cannot be overstated. They form the foundation of our organization and are upheld by all staff members. If any member, including staff, is found to be in violation of these values, we ask that you notify us immediately. It is through the maintenance of these values that we are able to provide a high-quality experience for all members of the unit. Together, we can strive to maintain our position as a leading organization within the gaming community.
+The importance of our core values cannot be overstated. They form the foundation of our organization and are upheld by all staff members. It is through the maintenance of these values that we are able to provide a high-quality experience for all members of the unit.
 
 ## Code of Conduct
 
-In order to be a member of our organization, it is essential that you understand and agree to our Code of Conduct. This document outlines the rules that all members, regardless of their position within the group, must follow in order to create a positive and enjoyable environment. Failure to adhere to these guidelines may result in the termination of your membership. It is our hope that by following these rules, all members can have a fulfilling and enjoyable experience with us.
+In order to be a member of our organization, it is essential that you understand and agree to our Code of Conduct. This document outlines the rules that all members, regardless of their position within the group, must follow in order to create a positive and enjoyable environment.
 
 ### Rule 1: Respect Others
 
-It is essential that all members of our organization treat each other with respect and refrain from engaging in bullying or harassing behavior. While we value banter and friendly ribbing, there are limits to this type of behavior. If someone asks you to stop, it is important that you do so immediately. Additionally, do not bring personal matters or family members into disputes in a harmful way. We also discourage the use of offensive or inflammatory language or actions. If you have any questions about this rule, please contact a member of our support team on Discord.
+It is essential that all members of our organization treat each other with respect and refrain from engaging in bullying or harassing behavior. While we value banter and friendly ribbing, there are limits to this type of behavior. If someone asks you to stop, it is important that you do so immediately. Additionally, do not bring personal matters or family members into disputes in a harmful way. We also discourage the use of offensive or inflammatory language or actions.
 
 ### Rule 2: Discord Guidelines
 
 We use Discord as our primary platform for communication and coordination. By joining our Discord server, you are agreeing to follow the guidelines set forth by the platform. As an organization that primarily utilizes Discord, it is expected that all members will adhere to these guidelines at all times.
+
+For convenience, here is a link to the Discord Community Guidelines: https://discord.com/guidelines
 
 ### Rule 3: Follow the Leader
 
@@ -73,6 +77,45 @@ At our organization, we value collaboration and the sharing of knowledge and res
 In line with this value, we are dedicated to the principles of open source. This means that we strive to make our resources, including code, tools, and documentation, freely available and accessible to all. We believe that open source promotes collaboration and innovation, and we are committed to contributing to the open source community whenever possible.
 
 We encourage all members of our organization to collaborate with one another and to share their skills and resources. We believe that by fostering a culture of collaboration and open source, we can create a stronger and more dynamic community.
+
+## Positions of Responsibility
+
+Our organization is run by a team of volunteers who are responsible for the day-to-day operations of the group.
+
+Here is a table of the current positions of responsibility and the individuals who currently hold them:
+
+| Type      | Name                 | Brief                                  | Current Holder (Discord Tag) | End of Term |
+| :-------- | :------------------- | :------------------------------------- | :--------------------------- | :---------- |
+| Permanent | Founder              | Overall management of the organization | idiota#6968                  | N/A         |
+| Elected   | Head Curator         | Mission design and development         | Unfilled                     | N/A         |
+| Elected   | Discord Administator | Discord server management              | Unfilled                     | N/A         |
+| Elected   | Marketing Director   | Content creation and outreach          | Unfilled                     | N/A         |
+
+### Permanent Positions
+
+These positions are filled by members of the leadership team and are responsible for the overall management of the organization. They are responsible for the creation and enforcement of policies, the recruitment of new members, and the coordination of all major events.
+
+#### Founder
+
+The Founder is responsible for the overall management of the organization. This includes the creation and enforcement of policies, centralizing the management of the organization, and the operational oversight of all other positions. Sometimes referred to as the "CEO" of the organization, the Founder is responsible for the overall success and growth of the group. When any other position is vacant, the Founder is responsible for filling the position until an election can be held.
+
+The current Founder is idiota#6968 on Discord, also known as Alex. If you have any questions or concerns about the operation of our organization, please do not hesitate to reach out to them.
+
+### Elected Positions
+
+These positions are voted on by the membership and serve a term representative of their position. We try to maximise the frequency of elections to ensure that the leadership team is always representative of the current membership.
+
+#### Head Curator
+
+The Head Curator is responsible for all mission-making matters. This includes the creation of new missions, the maintenance of existing missions, and the management of the mission repository. The Head Curator is also responsible for the recruitment and training of mission makers, zeuses, and other roles that support mission-making. The Head Curator is elected by the membership and serves a term of 8 sessions, or 10 weeks, whichever comes first.
+
+#### Discord Administrator
+
+The Discord Administrator is responsible for the day-to-day operations of our Discord server. This includes the management of channels, roles, and permissions, as well as the enforcement of our Discord guidelines. The Discord Administrator is elected by the membership and serves a term of 2 months.
+
+#### Marketing Director
+
+The Marketing Director is responsible for the promotion and outreach of our organization. This includes the creation of promotional materials, the management of our social media accounts, and the coordination of community events. The Marketing Director is elected by the membership and serves a term of 2 months.
 
 ## Closing Statement
 
