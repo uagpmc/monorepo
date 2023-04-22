@@ -117,6 +117,33 @@ The Discord Administrator is responsible for the day-to-day operations of our Di
 
 The Marketing Director is responsible for the promotion and outreach of our organization. This includes the creation of promotional materials, the management of our social media accounts, and the coordination of community events. The Marketing Director is elected by the membership and serves a term of 3 months.
 
+## Voting and Elections
+
+Our organization is run by a team of volunteers who are elected by the membership to serve in positions of responsibility. We believe that it is important for the leadership team to be representative of the membership, and we strive to ensure that all members have the opportunity to participate in the election process.
+
+### Voting Eligibility
+
+In order to be eligible to vote in an election, you must meet the following criteria:
+
+- You must be a member of our organization.
+- You must have been a member of our organization for at least 1 month.
+- You must have an attendance rate of at least 50% for the past 4 sessions.
+
+### Voting Process
+
+Voting is conducted using the [Election Bot](https://github.com/zuedev/ElectionDiscordBot) created by and maintained by our Founder. The bot is designed to make the voting process as simple and accessible as possible, and we encourage all members to participate in the election process.
+
+The voting method used by the bot is a [Single Transferable Vote](https://en.wikipedia.org/wiki/Single_transferable_vote) (STV) system. This means that you can rank the candidates in order of preference, and your vote will be transferred to the next candidate on your list if your first choice is eliminated.
+
+### Election Schedule
+
+We try to hold elections as frequently as possible to ensure that the leadership team is always representative of the current membership. The process for filling a vacant position is as follows:
+
+1. One week before the end of the current term, the current holder of the position will announce their intention to vacate the position. Our Founder will then announce the vacancy and open the application process.
+2. The application process will remain open for 5 days, and all members who meet the eligibility criteria are encouraged to apply.
+3. The current holder of the position will then announce the candidates who have applied for the position, and the election will begin. The election will remain open for 2 days.
+4. The election will then be closed, and the results will be announced. The candidate with the most votes will be declared the winner, and they will begin their term immediately.
+
 ## Closing Statement
 
 We hope that this manifesto has provided you with a clear understanding of our values and goals as an organization. We are always open to questions and feedback, and we encourage you to reach out to us if you have any questions or ideas.
