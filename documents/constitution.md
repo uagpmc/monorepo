@@ -115,7 +115,7 @@ The Discord Administrator is responsible for the day-to-day operations of our Di
 
 #### Marketing Director
 
-The Marketing Director is responsible for the promotion and outreach of our organization. This includes the creation of promotional materials, the management of our social media accounts, and the coordination of community events. The Marketing Director is elected by the membership and serves a term of 2 months.
+The Marketing Director is responsible for the promotion and outreach of our organization. This includes the creation of promotional materials, the management of our social media accounts, and the coordination of community events. The Marketing Director is elected by the membership and serves a term of 3 months.
 
 ## Closing Statement
 
