@@ -126,7 +126,6 @@ Our organization is run by a team of volunteers who are elected by the membershi
 In order to be eligible to vote in an election, you must meet the following criteria:
 
 - You must be a member of our organization.
-- You must have been a member of our organization for at least 1 month.
 - You must have an attendance rate of at least 50% for the past 4 sessions.
 
 ### Voting Process
