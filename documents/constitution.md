@@ -103,7 +103,7 @@ The current Founder is idiota#6968 on Discord, also known as Alex. If you have a
 
 ### Elected Positions
 
-These positions are voted on by the membership and serve a term representative of their position. We try to maximise the frequency of elections to ensure that the leadership team is always representative of the current membership.
+These positions are voted on by the membership and serve a term representative of their position. We try to maximise the frequency of elections to ensure that the leadership team is always representative of the current membership. Only one person may hold a position at a time, and the position is considered vacant if the current holder leaves the organization.
 
 #### Head Curator
 
