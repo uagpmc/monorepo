@@ -1,4 +1,4 @@
-# UAG Constitution v0.0.0
+# UAG Constitution v0.0.1
 
 ## Preface
 
@@ -130,7 +130,9 @@ In order to be eligible to vote in an election, you must meet the following crit
 
 ### Voting Process
 
-Voting is conducted using the [Election Bot](https://github.com/zuedev/ElectionDiscordBot) created by and maintained by our Founder. The bot is designed to make the voting process as simple and accessible as possible, and we encourage all members to participate in the election process.
+Voting in conducted by the Founder via Discord by collecting votes via DM. This is not ideal as it may introduce bias into the voting procedure due to the votes not being anonymous. This will be remedied in the future as we work on a dedicated Discord bot to facilitate the elections.
+
+~~Voting is conducted using the [Election Bot](https://github.com/zuedev/ElectionDiscordBot) created by and maintained by our Founder. The bot is designed to make the voting process as simple and accessible as possible, and we encourage all members to participate in the election process.~~
 
 The voting method used by the bot is a [Single Transferable Vote](https://en.wikipedia.org/wiki/Single_transferable_vote) (STV) system. This means that you can rank the candidates in order of preference, and your vote will be transferred to the next candidate on your list if your first choice is eliminated.
 
